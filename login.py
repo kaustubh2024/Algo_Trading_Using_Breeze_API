@@ -1,0 +1,8 @@
+user_name = ''
+password = ''
+session_key = '37213141'
+api_key = '00IV422652arJ5788Q57i53Pz3SCZ6V6'
+api_secret = 'g22`35oFT9^45104737s`30822p5%1b8'
+tokendf=''
+totp=''
+userID=''
